@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, eu sou o Ian Lucca</h1>
 
 <p align="center">
-🚀 Desenvolvedor focado em sistemas web e aplicações completas<br>
-🎮 Apaixonado por tecnologia, estratégia e performance<br>
-💡 Buscando evoluir constantemente e criar projetos reais
+💻 Desenvolvedor em formação focado em sistemas e aplicações web<br>
+🚀 Apaixonado por tecnologia, estratégia e performance<br>
+🎯 Buscando evoluir constantemente como desenvolvedor Full Stack
 </p>
 
 ---
@@ -18,59 +18,20 @@
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🧠 Sobre mim
 
-### 🏛️ Site do Vereador José Ferreira
-
-🔗 **Acesse o projeto:**  
-https://ianlucca1.github.io/Site-Vereador_Teste/
-
-📦 **Repositório:**  
-https://github.com/IanLucca1/Site-Vereador_Teste
+- 💡 Focado em desenvolvimento **Full Stack**
+- 🎮 Interesse em sistemas, jogos e aplicações interativas
+- ⚙️ Experiência com múltiplas tecnologias modernas
+- 📈 Sempre buscando aprender e evoluir na área
 
 ---
 
-### 📌 Sobre o projeto
+## 🛠️ Tecnologias e Ferramentas
 
-Este projeto é uma aplicação web desenvolvida com o objetivo de criar um portal de transparência e comunicação para um vereador.
-
-A proposta é permitir que cidadãos acompanhem:
-
-- 📄 Projetos de lei
-- 📊 Informações do mandato
-- 📢 Atualizações e comunicados
-- 🏙️ Dados relevantes para a população
-
----
-
-### ⚙️ Funcionalidades
-
-- 📱 Interface responsiva
-- 📂 Organização por páginas (estrutura modular)
-- 🔄 Sistema de atualização de conteúdo
-- 🧩 Separação entre HTML, CSS e JavaScript
-- 🌐 Deploy com GitHub Pages
-
----
-
-### 🛠️ Tecnologias utilizadas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,csharp,swift,android" />
 </p>
-
----
-
-## 🧠 Tecnologias e Ferramentas
-
-### 💻 Backend
-Node.js • PHP • MySQL • C#
-
-### 🎨 Frontend
-HTML • CSS • JavaScript • React • TypeScript
-
-### 📱 Mobile
-React Native • Swift • Android
 
 ---
 
@@ -83,26 +44,15 @@ React Native • Swift • Android
 
 ---
 
-## 🚀 Sobre mim
+## 🎯 Objetivos
 
-Sou um desenvolvedor em formação com foco em criar projetos reais e funcionais.  
-Tenho experiência com múltiplas tecnologias e busco evoluir principalmente em:
-
-- Desenvolvimento Full Stack
-- Performance de aplicações
-- Arquitetura de sistemas
-
----
-
-## 🎯 Próximos passos
-
-- 🔐 Implementar autenticação em projetos
-- ⚙️ Criar APIs próprias
-- 🧠 Evoluir em backend e banco de dados
-- 🚀 Desenvolver sistemas mais complexos
+- 🚀 Evoluir como desenvolvedor Full Stack
+- 🧠 Aprimorar lógica e arquitetura de sistemas
+- 🔐 Trabalhar com back-end mais avançado
+- 💻 Criar projetos cada vez mais completos
 
 ---
 
 <p align="center">
-🔥 Sempre construindo, sempre evoluindo.
+🔥 Sempre evoluindo, um projeto de cada vez.
 </p>
