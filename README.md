@@ -30,7 +30,12 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,csharp,swift,android" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,swift" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50"/>
 </p>
 
 ---
