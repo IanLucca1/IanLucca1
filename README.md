@@ -43,8 +43,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ianlucca1&show_icons=true&theme=dark&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianlucca1&layout=compact&langs_count=8&theme=dark"/>
+  <img height="160em"
+    src="https://github-stats-extended.vercel.app/api?username=ianlucca1&show_icons=true&theme=dark&count_private=true"/>
+
+  <img height="160em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ianlucca1&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 ---
